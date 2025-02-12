@@ -6,6 +6,7 @@ Are you curious about the potential of Large Language Models (LLMs) to revolutio
 
 # Features:
 PDF Text Extraction: Extracts text from uploaded PDF files.
+
 Text Chunking: Splits extracted text into manageable chunks.
 Vector Store Creation: Creates a vector store for efficient similarity searches.
 Conversational AI: Uses Google Generative AI for interactive Q&A.
